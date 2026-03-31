@@ -1,7 +1,10 @@
 # oss-audit---24BAI10514-
 # Open Source Software Audit: VLC Media Player
+
 **Student:** Arpit Choubisa 
+
 **Roll Number:** 24BAI10514
+
 **Course:** Open Source Software (OSS)  
 
 ## Project Overview
