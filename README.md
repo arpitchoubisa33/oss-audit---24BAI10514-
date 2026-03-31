@@ -31,8 +31,8 @@ I developed five specific Bash scripts to automate the auditing process. Each sc
 
 ##  How to Run the Project  
 ### 1. Clone the Repository  
-    git clone https://github.com/arpitchoubisa33/oss-audit---24BAI10514.git  
-    cd oss-audit---24BAI10514  
+    git clone https://github.com/arpitchoubisa33/oss-audit---24BAI10514-.git
+    cd oss-audit---24BAI10514- 
 
 ### 2. Make Scripts Executable  
     chmod +x *.sh  
