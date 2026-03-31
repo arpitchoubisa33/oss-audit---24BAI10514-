@@ -24,10 +24,46 @@ I developed five specific Bash scripts to automate the auditing process. Each sc
 4. **script4.sh (Log Analyzer):** A diagnostic tool that parses system logs for specific keywords like "error" or "warning."
 5. **script5.sh (OSS Manifesto):** An interactive script that captures user reflections on software freedom and generates a formatted manifesto file.
 
-## How to Run the Scripts
-To verify the scripts on your local Ubuntu environment, follow these steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/DashkratSrivastava/oss-audit--24BCE11239-.git](https://github.com/DashkratSrivastava/oss-audit--24BCE11239-.git)
-   cd oss-audit--24BCE11239-
+
+##  How to Run the Project  
+### 1. Clone the Repository  
+    git clone https://github.com/arpitchoubisa33/oss-audit---24BAI10514.git  
+    cd oss-audit---24BAI10514  
+
+### 2. Make Scripts Executable  
+    chmod +x *.sh  
+
+### 3. Run Scripts  
+    ./script1.sh  
+    ./script2.sh  
+    ./script3.sh  
+    ./script4.sh  
+    ./script5.sh
+
+    
+ ## Learning Outcomes  
+- Understanding Linux system auditing  
+- Hands-on experience with Bash scripting  
+- Knowledge of package management (APT)  
+- Log analysis and file permission handling  
+- Deep understanding of Open Source principles  
+
+
+## Open Source Philosophy  
+This project highlights the Four Freedoms of Open Source Software:  
+
+1. Freedom to run the program  
+2. Freedom to study how the program works  
+3. Freedom to modify the program  
+4. Freedom to distribute copies  
+
+
+## License  
+
+This project is created for academic purposes as part of the Open Source Software course.  
+
+
+## Acknowledgment  
+
+I would like to thank the open-source community for providing powerful tools like VLC Media Player and Linux, which make learning and innovation accessible to everyone.  
